@@ -1,1 +1,1 @@
-# reverty2
+# puppet2
